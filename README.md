@@ -10,11 +10,9 @@ The problem that our applied project aims to solve is that many hospital patient
 </table>
 
 
-## How To Run 
-
-
 ## File Structure: 
-
+[analyis.ipynbb](analyis.ipynbb) is the notebook with a majoirty of data visualization and exploration. This files also includes a few different ML models we tested.
+[allergy_prediction.ipynb](allergy_prediction.ipynb) is the notebook with our final Logistic Regression Model.
 
 
 ## Data Set:
@@ -28,7 +26,8 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BWDKXS
 
 
 ## Recommendations
-- 
+- Find clearer correlations between differenct factors and allergies
+- Make more accurate predictions to reduce MSE
 
 ## Team
  - Dhyanashri Raman
