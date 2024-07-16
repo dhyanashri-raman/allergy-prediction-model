@@ -11,7 +11,7 @@ The problem that our applied project aims to solve is that many hospital patient
 
 
 ## File Structure: 
-[analyis.ipynbb](analyis.ipynbb) is the notebook with a majoirty of data visualization and exploration. This files also includes a few different ML models we tested.
+[analyis.ipynb](analyis.ipynb) is the notebook with a majoirty of data visualization and exploration. This files also includes a few different ML models we tested.
 [allergy_prediction.ipynb](allergy_prediction.ipynb) is the notebook with our final Logistic Regression Model.
 
 
